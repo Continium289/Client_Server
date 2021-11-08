@@ -1,0 +1,9 @@
+{"id": 1, "command" : "HELLO" }
+{"id": 2, "command" : "login", "login" : "dumpuser", "password" : "tempy" }
+{"id": 3, "command" : "login", "login" : "dumpuser", "password" : "tempy" }
+{"id": 3, "command" : "login", "login" : "dumpuser", "password" : "tempy" }
+{"id": 90, "command" : "login", "login" : "12", "password" : "05" }
+{"id": 2, "command" : "ping", "session" : 1 }
+{"id": 2, "command" : "logout", "session" : 1 }
+{"id": 4, "command" : "message", "body" : "Ab", "session" : 34 }
+{"id": 4, "command" : "login", "login" : "dumpuser", "password" : "tempy" }
